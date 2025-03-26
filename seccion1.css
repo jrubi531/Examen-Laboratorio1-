@@ -1,0 +1,12 @@
+.seccion1{
+width: 40 px;
+height: 40px;
+border-color: black;
+}
+.titulo1{
+    font-size: medium;
+    text-align: left;
+}
+.texto1{
+    text-align: left;
+}
